@@ -1,7 +1,9 @@
-### Hi there 👋
+Hi~
 
 <!--
 **weilinfox/weilinfox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+### Hi there 👋
 
 Here are some ideas to get you started:
 
@@ -15,6 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m currently learning C, Java and Python.
+🌱 I’m currently learning C, Java, Python and Japanese.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=weilinfox)](https://github.com/anuraghazra/github-readme-stats)
