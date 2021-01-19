@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🌱 I’m currently learning C, Java and Python.
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=weilinfox)](https://github.com/anuraghazra/github-readme-stats)
