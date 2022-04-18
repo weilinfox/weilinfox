@@ -18,11 +18,15 @@ Here are some ideas to get you started:
 -->
 
 👯 Current a college student
+
 ✨ Love archlinux and debian, and try to use gentoo linux
+
 🌱 I’m currently learning Linux system programming
+
 🌱 Trying to learn more about C/C++, Python, Golang, Java, English and Japanese
+
 🌱 Planning to learn Node.js in the future
 
-本体犬夜叉，最爱小妖梦
+（）本体犬夜叉，最爱小妖梦
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=weilinfox)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weilinfox&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
