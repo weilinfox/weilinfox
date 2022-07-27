@@ -27,8 +27,6 @@ Here are some ideas to get you started:
 
 🌱 Planning to learn Node.js in the future
 
-是狐狐。
-
-本体犬夜叉，最爱小妖梦
+是狐狐。最爱小妖梦了~
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=weilinfox)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weilinfox&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
