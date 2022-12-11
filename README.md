@@ -29,4 +29,6 @@ Here are some ideas to get you started:
 
 是狐狐。最爱小妖梦了~
 
+莫名其妙地造轮子，写啥都是屎山。
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=weilinfox)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weilinfox&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
