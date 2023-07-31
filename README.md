@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👯 Current a stuff of ISCAS PLCT Lab
+👯 Current a staff of ISCAS PLCT Lab
 
 ✨ Love archlinux and debian, and try to use gentoo linux
 
