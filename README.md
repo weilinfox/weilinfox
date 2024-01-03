@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👯 Current a staff of ISCAS PLCT Lab
+👯 Current a staff of PLCT Lab
 
 ✨ Love archlinux and debian, and try to use gentoo linux
 
@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 🌱 Trying to learn more about C/C++, Python, Golang, Java, English and Japanese
 
 🌱 Planning to learn Node.js in the future
+
+🌱 Callsign BG5CEU
 
 是狐狐。最爱小妖梦了~
 
