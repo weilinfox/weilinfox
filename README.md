@@ -21,16 +21,12 @@ Here are some ideas to get you started:
 
 ✨ Love archlinux and debian, and try to use gentoo linux
 
-🌱 I’m currently learning Linux system programming
-
-🌱 Trying to learn more about C/C++, Python, Golang, Java, English and Japanese
-
-🌱 Planning to learn Node.js in the future
+✨ Love ILFORD B&W film
 
 🌱 Callsign BG5CEU
 
 是狐狐。最爱小妖梦了~
 
-莫名其妙地造轮子，写啥都是屎山（代码量看能算山咩）。
+是笨蛋。喜欢使用 ILFORD 黑白胶卷。对性别相关的事情感到疑惑。
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=weilinfox&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weilinfox&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
