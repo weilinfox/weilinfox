@@ -21,12 +21,14 @@ Here are some ideas to get you started:
 
 ✨ Love archlinux and debian, and try to use gentoo linux
 
-✨ Love ILFORD B&W film
+✨ Love ILFORD B&W film, also use Lucky B&W film
 
 🌱 Callsign BG5CEU
 
-是狐狐。最爱小妖梦了~
+🌱 she/her, cis male
 
-是笨蛋。喜欢使用 ILFORD 黑白胶卷。
+是狐狐。是笨蛋。最爱小妖梦了~
+
+喜欢使用 ILFORD 黑白胶卷，同时使用乐凯黑白胶卷
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=weilinfox&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weilinfox&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
