@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 
 是狐狐。最爱小妖梦了~
 
-是笨蛋。喜欢使用 ILFORD 黑白胶卷。对性别相关的事情感到疑惑。
+是笨蛋。喜欢使用 ILFORD 黑白胶卷。
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=weilinfox&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weilinfox&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
