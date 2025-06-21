@@ -21,14 +21,12 @@ Here are some ideas to get you started:
 
 ✨ Love archlinux and debian, and try to use gentoo linux
 
-✨ Love ILFORD B&W film, also use Lucky B&W film
+✨ Minolta SRT-101/Mamiya six folder, Fomapan/Lucky B&W film, D-76/HC-110
 
 🌱 Callsign BG5CEU
 
 🌱 she/her, cis male
 
 是狐狐。是笨蛋。最爱小妖梦了~
-
-喜欢使用 ILFORD 黑白胶卷，同时使用乐凯黑白胶卷
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=weilinfox&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weilinfox&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
